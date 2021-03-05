@@ -2,7 +2,7 @@
 
 Code and data for our paper [A Few-Shot Learning based Approach to Multimodal Social Relation Extraction (AAAI 2021)]()
 
-Our code is based on [FewRel 2.0: Towards More Challenging Few-Shot Relation Classification](https://github.com/thunlp/FewRel)
+Our code is based on [FewRel](https://github.com/thunlp/FewRel)
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ FC-TF
 └── test_data.json
 ```
 
-You can download all images, and put them under the corresponding datasets for the [website]().
+You can download all images, and put them under the corresponding datasets for the [website](https://drive.google.com/file/d/1myHcRDA71LFwIIGhm5Fg_idgZHezA93O/view?usp=sharing).
 
 ## Pre-trained Checkpoint
 
