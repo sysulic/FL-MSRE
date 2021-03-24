@@ -1,6 +1,6 @@
 # FL-MSRE
 
-Code and data for our paper [A Few-Shot Learning based Approach to Multimodal Social Relation Extraction (AAAI 2021)]()
+Code and data for our paper [FL-MSRE: A Few-Shot Learning based Approach to Multimodal Social Relation Extraction (AAAI 2021)]()
 
 Our code is based on [FewRel](https://github.com/thunlp/FewRel) and [FaceNet-pytorch](https://github.com/timesler/facenet-pytorch)
 
