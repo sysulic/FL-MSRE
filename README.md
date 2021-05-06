@@ -39,6 +39,8 @@ Due to the large size, FaceNet and Bert pre-trained checkpoint are not included.
 
 Please download the [FaceNet pre-trained checkpoint](https://drive.google.com/uc?export=download&id=1TDZVEBudGaEd5POR5X4ZsMvdsh1h68T1) and [Bert pre-trained checkpoint]() here, and put them in the `pretrained` under the root.
 
+Here we provide [all checkpoints of FL-MSRE]().
+
 ## Code Structure
 ```
 FL-MSRE
